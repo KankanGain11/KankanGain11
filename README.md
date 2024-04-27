@@ -11,9 +11,9 @@
 
 
 python
-Name = "Kshitij Raj"
+Name = "Kankan Gain"
 Class = "BCA 1st Year"
-Age = "19"
+Age = "18"
 Country = "🇮🇳"
 
 
